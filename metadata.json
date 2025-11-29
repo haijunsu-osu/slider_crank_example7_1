@@ -1,0 +1,5 @@
+{
+  "name": "Kinematic Slider-Crank Analyzer (Example 7.4 Kinzel)",
+  "description": "Interactive kinematic analysis of a slider-crank mechanism with real-time plotting, animation, and AI-powered insights.",
+  "requestFramePermissions": []
+}
